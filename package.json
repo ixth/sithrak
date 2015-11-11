@@ -1,0 +1,17 @@
+{
+  "name": "sithrak",
+  "version": "1.0.0",
+  "description": "Tiny watcher with debounce",
+  "main": "index.js",
+  "bin": "./index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ixth <ainop@ya.ru>",
+  "license": "ISC",
+  "dependencies": {
+    "chokidar": "^1.2.0",
+    "lodash.debounce": "^3.1.1",
+    "lodash.uniq": "^3.2.2"
+  }
+}
